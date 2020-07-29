@@ -4,5 +4,7 @@
 Esto es un ejemplo
 
 ```
-ls -l
+git status
+git add
+git commit
 ```
